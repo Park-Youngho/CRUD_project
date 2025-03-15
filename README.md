@@ -1,4 +1,4 @@
-# Spring Boot, MVC 를 활용한 CRUD연습 프로젝트입니다.
+# Spring Boot를 활용한 CRUD연습 프로젝트입니다.(2025-02-01 ~ 2025-02-10)
 데이터베이스는 H2 데이터베이스를 사용하였고, Postman으로 HTTP 요청했습니다.
 
 
